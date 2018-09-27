@@ -1,26 +1,23 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Project Name:  Lesson 3 Version Control
 
 
-Hi there! Welcome to Cloud9 IDE!
+## Course Title:
+Web Application Development
 
-To get you started, we included a small hello world application.
+## Assignment Date:  
+September 28, 2018
 
-1) Open the hello-world.html file
+## Student Name:  
+Matthew Weas
 
-2) Click on the Preview button to open a live preview pane
+## Project Description:
+This lesson examines version/source control and why application developers find it essential to managaing application development
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+## View Project:
+https://matthewweas.github.io/lesson3_VersionControl/. 
 
-Happy coding!
-The Cloud9 IDE team
+## Lessons Learned in the Assignment:
+1. Version control is a collaborative tool that acts as a main repository for all files in a project. It allows members of the project to look at files, make changes to the files, and commit the new files they've created by changing the original
+2. A repository where developers record the history of file changes and track their statuses/versions. There are two types of repositories: remote and local.
+3. Git is a free and open source distributed control system to handle everything from small to very large projects with speed and efficiency.
 
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
